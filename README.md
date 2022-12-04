@@ -15,7 +15,7 @@ Here, there were no null values and I went ahead to visualize my data via matplo
 
 
 INSIGHTS
-•	35% of the productive premier league players fall between the age of 20 to 30 years, so clubs are advised to be cautious of sighing players above the age of 30.
+•	35% of the productive premier league players fall between the age of 20 to 30 years. so, clubs are advised to be cautious of sighing players above the age of 30.
 
 •	Manchester City have the total number of assists and goals, meaning that they have the strongest attackers  the premiership in 2020/2021 season.
 
